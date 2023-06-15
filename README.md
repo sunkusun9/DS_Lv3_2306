@@ -17,3 +17,10 @@
 |4|문제4|14시 20분| 15시 20분|
 |5|문제5|15시 30분| 16시 30분|
 |6|문제6|16시 40분| 17시 30분|
+
+
+## 문제 수정 사항
+
+Day1
+
+2-6: 검정통계량 -> pvalue, scipy.stats.mannwhitenyu -> scipy.stats.mannwhitneyu
