@@ -24,3 +24,7 @@
 Day1
 
 2-6: 검정통계량 -> pvalue, scipy.stats.mannwhitenyu -> scipy.stats.mannwhitneyu
+
+※ 모든 실습 내용 들은 실습내용.zip에 정리 되었습니다. 
+
+감사합니다
